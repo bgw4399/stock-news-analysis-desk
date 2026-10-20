@@ -1,6 +1,6 @@
 # Stock News Analysis Desk
 
-프로젝트 설명을 **[통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/stock-news-analysis-desk.md)**로 옮겼습니다.
+프로젝트 설명을 [통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/stock-news-analysis-desk.md)로 옮겼습니다.
 
 뉴스 출처와 가격 정보를 함께 검토하는 대시보드.
 
