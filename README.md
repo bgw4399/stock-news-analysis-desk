@@ -1,38 +1,7 @@
 # Stock News Analysis Desk
 
-Local market-news and price-analysis dashboard for U.S. stocks.
+프로젝트 설명을 **[통합 프로젝트 노트](https://github.com/bgw4399/bgw4399/blob/main/docs/projects/stock-news-analysis-desk.md)**로 옮겼습니다.
 
-## Overview
+뉴스 출처와 가격 정보를 함께 검토하는 대시보드.
 
-This project is a personal decision-support tool that brings together price snapshots, news feeds, market briefing data, and AI-assisted classification. It is designed to help a human review news faster, not to make unsupervised live trading decisions.
-
-## Features
-
-- Yahoo Finance-based quote snapshots
-- Google News RSS and leader/company post collection
-- positive/negative/neutral news classification
-- source-link and evidence preservation
-- market briefing dashboard
-- portfolio/watchlist rails
-- report-style UI for repeated review
-
-## Design Principle
-
-AI outputs are treated as review aids. The system should preserve:
-
-- original source link
-- classification label
-- contributing keywords/events
-- uncertainty or reason for classification
-
-## Stack
-
-- PowerShell server scripts
-- JavaScript dashboard
-- HTML/CSS
-- local JSON state files
-- optional VPS deployment scripts
-
-## Public Sharing Notes
-
-Do not upload personal trading state, account data, API keys, or private deployment endpoints. If sharing screenshots, remove portfolio values and any personal financial data.
+이 저장소는 기존 링크를 위한 안내 페이지입니다. 실행 코드와 원본 데이터는 포함하지 않습니다.
